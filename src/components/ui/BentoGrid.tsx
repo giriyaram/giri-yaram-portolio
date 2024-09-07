@@ -2,12 +2,10 @@
 
 import { cn } from "@/lib/utils";
 import { BackgroundGradientAnimation } from "./GradientBg";
-import { Globe } from "./Globe";
 import { GlobeDemo } from "./GridGlobe";
 import animationData from "@/data/confetti.json";
 import Lottie from "react-lottie";
 import MagicButton from "./MagicButton";
-import { IoCopyOutline } from "react-icons/io5";
 import { useState } from "react";
 import { FaLocationArrow } from "react-icons/fa6";
 
