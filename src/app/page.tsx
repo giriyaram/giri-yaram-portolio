@@ -7,6 +7,9 @@ import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { navItems } from "@/data";
+import ProjectListCard from "@/components/ProjectListCard"
+import About from "@/components/About"
+
 
 export default function Home() {
   return (
@@ -14,9 +17,11 @@ export default function Home() {
       <div className="max-w-7xl w-full ">
         <FloatingNav navItems={navItems}/>
         <Hero />
-        <Grid />
+        <ProjectListCard />
+        <About />
+        {/* <Grid /> */}
         <RecentProjects />
-        {/* <Clients /> */}
+        <Clients />
         <Experience />
         <Footer />
       </div>

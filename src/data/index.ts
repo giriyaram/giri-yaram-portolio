@@ -106,34 +106,10 @@ export const navItems = [
   
   export const testimonials = [
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote:"As the Head of Development for the Skill Capital CRM project, I had the pleasure of overseeing Giri Yaram during his internship. Giri quickly proved himself to be an exceptional developer with a strong command of Spring Boot and Next.js for full-stack development. What truly stood out was his ability to handle complex project requirements independently, consistently delivering high-quality solutions without needing assistance. His dedication, attention to detail, and problem-solving skills were invaluable to the success of the project. Giri is more than capable of taking on challenging tasks and delivering them efficiently. I have no doubt he will excel in any development role.",
+      name: "Raju",
+      title: "Product Owner at Digital Lync",
+      img: "/raju.png",
     },
   ];
   
@@ -209,12 +185,25 @@ export const navItems = [
     },
     {
       id: 2,
-      img: "/twit.svg",
-      href: "https://www.x.com/GiriYaram/",
-    },
-    {
-      id: 3,
       img: "/link.svg",
       href: "https://www.linkedin.com/in/giri-yaram/",
     },
   ];
+
+  export const techStack = ["Next.js", "React", "Spring Boot","MySQL",  "PostgreSQL", "Java", "JavaScript", "Python", "Git"]
+
+  export const aboutMe = `Hey there! I’m Giri Yaram, an aspiring Full Stack Developer based in Hyderabad, passionate about building efficient and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on crafting solutions that make an impact.
+
+\nHere’s what I bring to the table:
+
+𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: I’m proficient in front-end (React, Next.js) and back-end (Java, Spring Boot) technologies, allowing me to create dynamic, responsive, and scalable applications.
+ 
+𝐔𝐈/𝐔𝐗 𝐅𝐨𝐜𝐮𝐬*: Designing intuitive and engaging user interfaces is something I love. Whether it's crafting clean, modern layouts or enhancing user interaction, I ensure the experience is seamless across devices.
+
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Skilled in MySQL and PostgreSQL, I work efficiently with databases to store, manage, and retrieve data securely and effectively.
+
+𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫: Whether it's debugging code or optimizing system performance, I’m always up for a challenge and driven to find solutions that work well and scale smoothly.
+
+𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 & 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩: From leading college events to working in teams, I thrive in collaborative environments. I’m known for being a proactive communicator and someone who can rally the team around a shared vision.
+
+I’m always eager to learn new technologies, adapt to different challenges, and bring fresh ideas to the table. Let’s connect if you’re looking for someone with a mix of technical skills, creativity, and a collaborative spirit!`;
