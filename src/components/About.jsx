@@ -35,7 +35,7 @@ const About = () => {
           <br />
           <span className="text-purple font-semibold">UI/UX Focus</span>:
           Designing intuitive and engaging user interfaces is something I love.
-          Whether it's crafting clean, modern layouts or enhancing user
+          Whether it&apos;s crafting clean, modern layouts or enhancing user
           interaction, I ensure the experience is seamless across devices.{" "}
           <br /> <br />{" "}
           <span className="text-purple font-semibold">Database Management</span>
@@ -44,7 +44,7 @@ const About = () => {
           <br />
           <br />{" "}
           <span className="text-purple font-semibold">Problem Solver</span>:
-          Whether it's debugging code or optimizing system performance, I&apos;m
+          Whether it&apos;s debugging code or optimizing system performance, I&apos;m
           always up for a challenge and driven to find solutions that work well
           and scale smoothly.
           <br />
