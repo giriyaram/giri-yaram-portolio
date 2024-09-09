@@ -19,17 +19,17 @@ const About = () => {
           className="text-sm lg:text-base opacity-55
                     lg:opacity-50 text-justify"
         >
-          Hey there! I'm Giri Yaram, an aspiring Full Stack Developer based in
+          Hey there! I&apos;m Giri Yaram, an aspiring Full Stack Developer based in
           Hyderabad, passionate about building efficient and user-friendly web
           applications. With a strong foundation in both front-end and back-end
           technologies, I thrive on crafting solutions that make an impact.{" "}
           <br />
           <br />
-          Here’s what I bring to the table: <br /> <br />{" "}
+          Here&apos;s what I bring to the table: <br /> <br />{" "}
           <span className="text-purple font-semibold">
             Full Stack Development
           </span>
-          : I’m proficient in front-end (React, Next.js) and back-end (Java,
+          : I&apos;m proficient in front-end (React, Next.js) and back-end (Java,
           Spring Boot) technologies, allowing me to create dynamic, responsive,
           and scalable applications. <br />
           <br />
@@ -44,7 +44,7 @@ const About = () => {
           <br />
           <br />{" "}
           <span className="text-purple font-semibold">Problem Solver</span>:
-          Whether it's debugging code or optimizing system performance, I’m
+          Whether it's debugging code or optimizing system performance, I&apos;m
           always up for a challenge and driven to find solutions that work well
           and scale smoothly.
           <br />
@@ -53,13 +53,13 @@ const About = () => {
             Collaboration & Leadership
           </span>
           : From leading college events to working in teams, I thrive in
-          collaborative environments. I’m known for being a proactive
+          collaborative environments. I&apos;m known for being a proactive
           communicator and someone who can rally the team around a shared
-          vision. I’m always eager to learn new technologies, adapt to different
+          vision. I&apos;m always eager to learn new technologies, adapt to different
           challenges, and bring fresh ideas to the table.
           <br />
           <br />
-          Let’s connect if you’re looking for someone with a mix of technical
+          Let&apos;s connect if you&apos;re looking for someone with a mix of technical
           skills, creativity, and a collaborative spirit!
         </p>
       </div>
